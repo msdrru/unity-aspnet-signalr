@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Unity.AspNet.SignalR</id>
+    <version>0.1.0</version>
+    <title>Unity SignalR</title>
+    <authors>MsdrRu</authors>
+    <owners>MsdrRu</owners>
+    <projectUrl>https://github.com/msdrru/unity-aspnet-signalr</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Unity bootstrapper for ASP.NET SignalR</description>
+    <releaseNotes>First release of Unity bootstrapper for ASP.NET SignalR</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>ASP.NET SignalR Unity</tags>
+  </metadata>
+</package>

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{80F842D7-25D4-432B-BF31-70A75C3DD791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsdrRu.Practices.Unity.SignalR", "src\MsdrRu.Practices.Unity.SignalR\MsdrRu.Practices.Unity.SignalR.csproj", "{D420AE50-BF1F-4300-AEA5-8B49B7CF49DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{639F9F31-393A-4012-84DB-5DE2A0A2371F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{49D234F6-958C-4FC8-8DB5-2B68B4972011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.SignalR.WebApplication", "samples\Unity.SignalR.WebApplication\Unity.SignalR.WebApplication.csproj", "{6E642A09-F88E-4C61-A819-7D316CB16942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D420AE50-BF1F-4300-AEA5-8B49B7CF49DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D420AE50-BF1F-4300-AEA5-8B49B7CF49DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D420AE50-BF1F-4300-AEA5-8B49B7CF49DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D420AE50-BF1F-4300-AEA5-8B49B7CF49DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E642A09-F88E-4C61-A819-7D316CB16942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E642A09-F88E-4C61-A819-7D316CB16942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E642A09-F88E-4C61-A819-7D316CB16942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E642A09-F88E-4C61-A819-7D316CB16942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D420AE50-BF1F-4300-AEA5-8B49B7CF49DE} = {80F842D7-25D4-432B-BF31-70A75C3DD791}
+		{6E642A09-F88E-4C61-A819-7D316CB16942} = {49D234F6-958C-4FC8-8DB5-2B68B4972011}
+	EndGlobalSection
+EndGlobal

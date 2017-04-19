@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs
+/samples/Unity.SignalR.WebApplication/bin
+/samples/Unity.SignalR.WebApplication/obj/Debug
+/src/MsdrRu.Practices.Unity.SignalR/bin/Debug
+/src/MsdrRu.Practices.Unity.SignalR/obj/Debug
